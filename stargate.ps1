@@ -2,20 +2,20 @@
 $DefaultPlexServer = [pscustomobject]@{
     Username           = "go2tom42";
     Token              = "sVbduUbv4-x2DxzydRmx";
-    UserToken          = "PVy3fuX4q2UvjXi3_ijQ"; <#Only needed if you use Managed Accounts PVy3fuX4q2UvjXi3_ijQ #>
-    PlexServer         = "Smeghead";
-    PlexServerHostname = "192.168.1.88";
+    UserToken          = ""; <#Only needed if you use Managed Accounts PVy3fuX4q2UvjXi3_ijQ #>
+    PlexServer         = "Hardhead";
+    PlexServerHostname = "192.168.1.118";
     Protocol           = "http";
     Port               = "32400";
     Default            = "True";
 }
 
-$SG1Library = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Enterprise#>
-$ATLLibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Shorts#>
-$UNILibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate (TOS)#>
-$INFLibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Discovry#>
-$ORILibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Stange New Worlds#>
-$FILMSLibrary = "Sci-Fi Movies"; <#Name of Plex Library that contains Stargate: Stange New Worlds#>
+$SG1Library = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: SG!#>
+$ATLLibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Atlantis#>
+$UNILibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate Universe#>
+$INFLibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Infinityy#>
+$ORILibrary = "Science Fantasy Ended"; <#Name of Plex Library that contains Stargate: Origins#>
+$FILMSLibrary = "Sci-Fi Movies"; <#Name of Plex Library that contains Stargate Films#>
 
 
 
