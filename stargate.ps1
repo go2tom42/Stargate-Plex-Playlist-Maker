@@ -20,15 +20,15 @@ $FILMSLibrary = "Sci-Fi Movies"; <#Name of Plex Library that contains Stargate F
 
 
 <# CAN CHANGE #>
-$00Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate00.jpg";
-$01Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate01.jpg";
-$02Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate02.jpg";
-$03Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate03.jpg";
-$04Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate04.jpg";
-$05Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate05.jpg";
-$06Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate06.jpg";
-$07Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate07.jpg";
-$08Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/master/Stargate08.jpg";
+$00Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate00.jpg";
+$01Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate01.jpg";
+$02Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate02.jpg";
+$03Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate03.jpg";
+$04Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate04.jpg";
+$05Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate05.jpg";
+$06Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate06.jpg";
+$07Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate07.jpg";
+$08Poster = "https://github.com/go2tom42/Stargate-Plex-Playlist-Maker/raw/master/Stargate08.jpg";
 
 
 <# NEVER CHANGE#>
